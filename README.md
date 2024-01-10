@@ -14,10 +14,9 @@
 </div>
 <h3 align="left">Profiles</h3>
 <p align="left">
-  <a href="https://www.hackerrank.com/qbhoalu" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/hackerrank.svg" alt="qbhoalu" height="30" width="40" /></a>
+  <a href="https://fb.com/baonguyen888" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/facebook.svg" alt="baonguyen888" height="40" width="50" /></a>
+    <a href="https://www.hackerrank.com/qbhoalu" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/hackerrank.svg" alt="qbhoalu" height="40" width="50" /></a>
   <a href="https://www.leetcode.com/qbhoalu" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/leet-code.svg" alt="qbhoalu" height="30" width="40" /></a>
-  <a href="https://fb.com/baonguyen888" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/facebook.svg" alt="baonguyen888" height="30" width="40" /></a>
-  <a href="https://instagram.com/nguyenbaohoalu" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/instagram.svg" alt="nguyenbaohoalu" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
