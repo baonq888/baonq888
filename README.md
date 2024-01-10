@@ -9,7 +9,7 @@
 </div><h3 align="left">About Me</h3>
 - 🌱 I’m currently learning at FPT University </br>
 - ✨ My major is Software Engineering </br>
-- 💛 I'm interested in Technology, Maths and Music </br>
+- 💛 I'm keen on Technology, Maths and Music </br>
 
 </div>
 <h3 align="left">Profiles</h3>
@@ -43,8 +43,7 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
-<h3 align="left">Stars</h3>
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=baonq888&show_icons=true&locale=en&theme=" alt="baonq888" /></p>
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
