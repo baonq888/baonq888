@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nguyen Quoc Bao</h1>
+<h1 align="left">Hi 👋, I'm Nguyen Quoc Bao</h1>
 <div align="left"> 
   <a href="https://github.com/baonq888" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
   <a href = "mailto:qbhoalu@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
