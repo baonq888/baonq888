@@ -3,9 +3,9 @@
   <a href="https://github.com/baonq888" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
   <a href = "mailto:qbhoalu@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
-<div align="center">
+<!-- <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
+</div> -->
 
 </div>
 <h2 align="left">About Me</h2>
@@ -16,7 +16,7 @@
 </div>
 <h2 align="left">Profiles</h2>
 <p align="left">
-<!--   <a href="https://fb.com/baonguyen888" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/facebook.svg" alt="baonguyen888" height="40" width="50" /></a> -->
+  <a href="https://fb.com/baonguyen888" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/facebook.svg" alt="baonguyen888" height="40" width="50" /></a>
     <a href="https://www.hackerrank.com/qbhoalu" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/hackerrank.svg" alt="qbhoalu" height="40" width="50" /></a>
   <a href="https://www.leetcode.com/qbhoalu" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/leet-code.svg" alt="qbhoalu" height="30" width="40" /></a>
 </p>
