@@ -9,9 +9,11 @@
 
 </div>
 <h2 align="left">About Me</h2>
-- 🌱 I’m currently learning at FPT University </br>
-- ✨ My major is Software Engineering </br>
-- 💛 I'm keen on Technology, Maths and Music </br>
+  <ul>
+    <li>📚 Currently pursuing a degree in Software Engineering at FPT University</li>
+    <li>💻 Focused on backend development with a keen interest in DevOps and AI</li>
+    <li>🎶 Passionate about Technology, Mathematics, and Music</li>
+  </ul>
 
 </div>
 <h2 align="left">Profiles</h2>
