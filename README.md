@@ -8,8 +8,8 @@
 <h1 align="center">Hi there! 👋</h1>
 
 <p align="center">
-  <strong>Python | Go | JavaScript</strong> <br>
-  Enthusiast in <strong>System Internals | Distributed Systems | AI/ML</strong> <br>
+  <strong>backend Developer</strong><br>
+  Enthusiast in <strong> Backend Develoment | System Internals | Distributed Systems | AI/ML</strong> <br>
   Exploring <strong>Cloud Engineering</strong> & <strong>Low-Level Backend Development</strong> 🚀
 </p>
 
