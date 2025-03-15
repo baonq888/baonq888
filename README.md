@@ -5,11 +5,12 @@
 </div> 
 
 </div>
-<h2 align="left">Hi there! 👋</h2>
+<h1 align="center">Hi there! 👋</h1>
 
-<p align="left">
-  I'm a <strong>Python, JavaScript and Go</strong> enthusiast passionate about <strong>system internals, distributed systems, and technical problem-solving</strong>.
-  Exploring the paths of <strong>Cloud Engineering</strong> and <strong>Low-Level Backend Development</strong>, constantly learning how things work under the hood. 🚀
+<p align="center">
+  <strong>Python | Go | JavaScript</strong> <br>
+  Enthusiast in <strong>System Internals | Distributed Systems | AI/ML</strong> <br>
+  Exploring <strong>Cloud Engineering</strong> & <strong>Low-Level Backend Development</strong> 🚀
 </p>
 
 
