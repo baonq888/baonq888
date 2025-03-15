@@ -1,23 +1,15 @@
-
-
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div> 
 
-</div>
 <h1 align="center">Hi there! 👋</h1>
 
 <p align="center">
-  <strong>backend Developer</strong><br>
-  Enthusiast in <strong> Backend Develoment | System Internals | Distributed Systems | AI/ML</strong> <br>
+  <strong>Backend Developer</strong> | Passionate about <strong>System Internals, Distributed Systems, AI/ML</strong> <br>
   Exploring <strong>Cloud Engineering</strong> & <strong>Low-Level Backend Development</strong> 🚀
 </p>
 
-
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-<h2>⚡️ Where to find me</h2>
+<h2>⚡️ Connect with me</h2>
 <div align="left"> 
   <a href="mailto:qbhoalu@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.facebook.com/baonguyen888/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
