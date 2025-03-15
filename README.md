@@ -5,8 +5,12 @@
 </div> 
 
 </div>
-<h1 align="center">Hi 👋, I'm Quoc Bao</h1>
-<h3 align="center">A passionate backend developer from Vietnam</h3>
+<h2 align="center">Hi there! 👋</h2>
+
+<p align="center">
+  I'm a <strong>Python, JavaScript and Go</strong> enthusiast passionate about <strong>system internals, distributed systems, and technical problem-solving</strong>. <br>
+  Exploring the paths of <strong>Cloud Engineering</strong> and <strong>Low-Level Backend Development</strong>, constantly learning how things work under the hood. 🚀
+</p>
 
 
 
