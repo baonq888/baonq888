@@ -45,7 +45,10 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=baonq888&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="baonq888" />
 </p>
 
-
+<blockquote align="center">
+  <strong>“If I don’t understand how something works under the hood, I won’t stop until I do.  
+  And if I break something in the process… well, that’s just part of the journey.” 😆</strong>
+</blockquote>
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
