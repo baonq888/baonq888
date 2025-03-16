@@ -7,6 +7,16 @@
   Exploring <strong>Cloud Engineering</strong> & <strong>Low-Level Backend Development</strong> 🚀
 </p>
 
+<h2>☕ Support My Work</h2>
+<p align="left">
+  I share knowledge on <strong>Operating Systems, Data Structures & Algorithms, Computer Networking, Python, JavaScript, and Go</strong>, focusing on <strong>performance, scalability, and real-world problem-solving</strong>.  
+  If you enjoy my content, consider supporting me on <a href="https://www.buymeacoffee.com/yourusername" target="_blank"><strong>Buy Me a Coffee</strong></a>!  
+</p>
+
+<a href="https://www.buymeacoffee.com/yourusername" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50">
+</a>
+
 <h2>⚡️ Connect with me</h2>
 <div align="left"> 
   <a href="mailto:qbhoalu@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
