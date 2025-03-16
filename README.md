@@ -9,7 +9,7 @@
 
 <h2>☕ Support My Work</h2>
 <p align="left">
-  I share knowledge on <strong>Operating Systems, Data Structures & Algorithms and Computer Networking focusing on <strong>performance, scalability, and real-world problem-solving</strong>.  
+  I share knowledge on <strong>Operating Systems, Data Structures & Algorithms and Computer Networking</strong>, focusing on <strong>performance, scalability, and real-world problem-solving</strong>.  
   If you enjoy my content, consider supporting me on <a href="https://www.buymeacoffee.com/yourusername" target="_blank"><strong>Buy Me a Coffee</strong></a>!  
 </p>
 
