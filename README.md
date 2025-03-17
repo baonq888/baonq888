@@ -1,16 +1,18 @@
 
 
-<h1 align="center">Hi there! 👋</h1>
+<h1 align="center">Hi there! 👋 I'm Nguyen Quoc Bao</h1>
 
 <p align="center">
-  <strong>Backend Developer</strong> | Passionate about <strong>System Internals, Distributed Systems, AI/ML</strong> <br>
-  Exploring <strong>Cloud Engineering</strong> & <strong>Low-Level Backend Development</strong> 🚀
+  <strong>Passionate Backend Developer</strong> <br>
+  Exploring <strong>DevOps</strong> & <strong>Cloud Engineering</strong>🚀  
 </p>
 
 <h2>☕ Support My Work</h2>
 <p align="left">
-  I share knowledge on <strong>Operating Systems, Data Structures & Algorithms and Computer Networking</strong>, focusing on <strong>performance, scalability, and real-world problem-solving</strong>.  
-  If you enjoy my content, consider supporting me on <a href="https://www.buymeacoffee.com/yourusername" target="_blank"><strong>Buy Me a Coffee</strong></a>!  
+  I love sharing knowledge on <strong>Backend Development, Data Structures & Algorithms, and Java & Golang</strong>,  
+  with a focus on <strong>performance, scalability, and real-world problem-solving</strong>.  
+  If you find my content helpful, consider supporting me on  
+  <a href="https://www.buymeacoffee.com/yourusername" target="_blank"><strong>Buy Me a Coffee</strong></a>.
 </p>
 
 <a href="https://www.buymeacoffee.com/yourusername" target="_blank">
@@ -27,9 +29,9 @@
 
 <h2>🚀 Languages and Tools I Use</h2>
 <p>
-  <a href="https://www.python.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30"></a>
   <a href="https://www.java.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30"></a>
   <a href="https://go.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="30"></a>
+  <a href="https://www.python.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30"></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30"></a>
   <a href="https://www.typescriptlang.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30"></a>
   <a href="https://spring.io/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30"></a>
