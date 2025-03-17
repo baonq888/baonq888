@@ -7,17 +7,7 @@
   Exploring <strong>DevOps</strong> & <strong>Cloud Engineering</strong>🚀  
 </p>
 
-<h2>☕ Support My Work</h2>
-<p align="left">
-  I love sharing knowledge on <strong>Backend Development, Data Structures & Algorithms, and Java & Golang</strong>,  
-  with a focus on <strong>performance, scalability, and real-world problem-solving</strong>.  
-  If you find my content helpful, consider supporting me on  
-  <a href="https://www.buymeacoffee.com/yourusername" target="_blank"><strong>Buy Me a Coffee</strong></a>.
-</p>
 
-<a href="https://www.buymeacoffee.com/yourusername" target="_blank">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50">
-</a>
 
 <h2>⚡️ Connect with me</h2>
 <div align="left"> 
@@ -49,14 +39,18 @@
   <a href="https://www.linux.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30"></a>
   <a href="https://git-scm.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30"></a>
 </p>
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=baonq888&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="baonq888" />
+
+<h2>☕ Support My Work</h2>
+<p align="left">
+  I love sharing knowledge on <strong>Backend Development, Data Structures & Algorithms, and Java & Golang</strong>,  
+  with a focus on <strong>performance, scalability, and real-world problem-solving</strong>.  
+  If you find my content helpful, consider supporting me on  
+  <a href="https://www.buymeacoffee.com/yourusername" target="_blank"><strong>Buy Me a Coffee</strong></a>.
 </p>
 
-<blockquote align="center">
-  <strong>“If I don’t understand how something works under the hood, I won’t stop until I do.  
-  And if I break something in the process… well, that’s just part of the journey.” 😆</strong>
-</blockquote>
+<a href="https://www.buymeacoffee.com/yourusername" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50">
+</a>
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
