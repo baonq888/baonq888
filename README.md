@@ -1,11 +1,13 @@
 
 
 
-
-<p align="center">
-  <strong>Passionate Backend Developer</strong> <br>
+<div align="center">
+  <h3>
+  <strong>Backend Developer</strong> | 
   Exploring <strong>DevOps</strong> & <strong>Cloud Engineering</strong>🚀  
-</p>
+</h3>
+</div>
+
 
 
 
