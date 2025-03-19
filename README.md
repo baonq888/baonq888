@@ -36,13 +36,9 @@
 
 <h2>Support My Work</h2>
 <p align="left">
-  I love sharing knowledge on <strong>Backend Development, Data Structures & Algorithms, and Java & Golang</strong>,  
-  with a focus on <strong>performance, scalability, and real-world problem-solving</strong>.  
-  If you find my content helpful, consider supporting me on  
+  I share articles and insights on
   <a href="https://www.buymeacoffee.com/yourusername" target="_blank"><strong>Buy Me a Coffee</strong></a>.
 </p>
-
-
 
 
 </div>
