@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi there! 👋 I'm Nguyen Quoc Bao</h1>
+<h1 align="center">Hi there! 👋</h1>
 
 <p align="center">
   <strong>Passionate Backend Developer</strong> <br>
@@ -29,7 +29,7 @@
   </a>
 </div>
 
-<h2>🚀 Languages and Tools I Use</h2>
+<h2>🚀 Languages and Tools</h2>
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" title="Java" height="35" style="margin-right: 20px;">&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" title="Go" height="35" style="margin-right: 20px;">&nbsp;
