@@ -10,24 +10,10 @@
 
 
 <h2>⚡️ Connect with me</h2>
-<div style="display: flex; flex-wrap: wrap;">
-  <a href="mailto:qbhoalu@gmail.com" target="_blank" 
-     style="border: 2px solid #ccc; padding: 8px; text-decoration: none; border-radius: 5px;">
-     Gmail
-  </a>&nbsp;&nbsp;
-  <a href="https://www.facebook.com/baonguyen888/" target="_blank" 
-     style="border: 2px solid #ccc; padding: 8px; text-decoration: none; border-radius: 5px;">
-     Facebook
-  </a>&nbsp;&nbsp;
-  <a href="https://www.hackerrank.com/qbhoalu" target="_blank" 
-     style="border: 2px solid #ccc; padding: 8px; text-decoration: none; border-radius: 5px;">
-     HackerRank
-  </a>&nbsp;&nbsp;
-  <a href="https://www.leetcode.com/qbhoalu" target="_blank" 
-     style="border: 2px solid #ccc; padding: 8px; text-decoration: none; border-radius: 5px;">
-     LeetCode
-  </a>
-</div>
+<a href="mailto:qbhoalu@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail"></a>
+<a href="https://www.facebook.com/baonguyen888/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" alt="Facebook"></a>
+<a href="https://www.hackerrank.com/qbhoalu" target="_blank"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white" alt="HackerRank"></a>
+<a href="https://www.leetcode.com/qbhoalu" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white" alt="LeetCode"></a>
 
 <h2>🚀 Languages and Tools</h2>
 <p>
