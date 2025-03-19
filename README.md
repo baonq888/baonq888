@@ -1,7 +1,5 @@
 
 
-<h1 align="center">Hi there!</h1>
-
 <p align="center">
   <strong>Passionate Backend Developer</strong> <br>
   Exploring <strong>DevOps</strong> & <strong>Cloud Engineering</strong>🚀  
