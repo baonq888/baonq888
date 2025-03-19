@@ -1,15 +1,19 @@
 
 
-
 <div align="center">
   <h3>
-  <strong>Backend Developer</strong> | 
-  Exploring <strong>DevOps</strong> & <strong>Cloud Engineering</strong>🚀  
-</h3>
+    <strong>Backend Developer</strong> | 
+    Exploring <strong>DevOps</strong> & <strong>Cloud Engineering</strong> 🚀  
+  </h3>
 </div>
 
-
-
+<h2>About Me</h2>
+<ul>
+  <li>🙌 Hi, I'm Nguyen Quoc Bao.</li>
+  <li>🌐 I’m currently exploring DevOps and Cloud Engineering.</li>
+  <li>📝 I regularly share articles and insights to help the developer community on <a href="https://www.buymeacoffee.com/yourusername" target="_blank"><strong>Buy Me a Coffee</strong></a>.</li>
+  <li>💡 Ask me about <strong>Data Structures & Algorithms, Java, Golang, or Python.</strong></li>
+</ul>
 
 <h2>Connect with me</h2>
 <a href="mailto:qbhoalu@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail"></a>
@@ -34,11 +38,7 @@
   <img src="https://img.shields.io/badge/Redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" height="30" style="margin-right: 10px;">
 </p>
 
-<h2>Support My Work</h2>
-<p align="left">
-  I share articles and insights on
-  <a href="https://www.buymeacoffee.com/yourusername" target="_blank"><strong>Buy Me a Coffee</strong></a>.
-</p>
+
 
 
 </div>
