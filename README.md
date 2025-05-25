@@ -10,6 +10,7 @@
 <h2>About Me</h2>
 <ul>
   <li>🙌 Hi, I'm Nguyen Quoc Bao.</li>
+  <li>🎓 I graduated with a major in <strong>Software Engineering</strong> and a minor in <strong>Artificial Intelligence</strong>.</li>
   <li>🌐 I’m currently exploring AI/ML and Cloud Engineering.</li>
   <li>✒️ I share articles and insights to help the AI/ML/Developer community on <a href="https://qbcodecraft.hashnode.dev" target="_blank">https://qbcodecraft.hashnode.dev</a>.</li>
   <li>💡 Ask me about <strong>Data Structures & Algorithms, AI/ML, Math, or Python.</strong></li>
