@@ -3,16 +3,16 @@
 <div align="center">
   <h3>
     <strong>Backend Developer</strong> | 
-    Exploring <strong>DevOps</strong> & <strong>Cloud Engineering</strong> 🚀  
+    Exploring <strong>AI/ML</strong> & <strong>Cloud Engineering</strong> 🚀  
   </h3>
 </div>
 
 <h2>About Me</h2>
 <ul>
   <li>🙌 Hi, I'm Nguyen Quoc Bao.</li>
-  <li>🌐 I’m currently exploring DevOps and Cloud Engineering.</li>
-  <li>✒️ I regularly share articles and insights to help the developer community on <a href="https://qbcodecraft.hashnode.dev" target="_blank">https://qbcodecraft.hashnode.dev</a>.</li>
-  <li>💡 Ask me about <strong>Data Structures & Algorithms, Java, Golang, or Python.</strong></li>
+  <li>🌐 I’m currently exploring AI/ML and Cloud Engineering.</li>
+  <li>✒️ I regularly share articles and insights to help the AI/ML/Developer community on <a href="https://qbcodecraft.hashnode.dev" target="_blank">https://qbcodecraft.hashnode.dev</a>.</li>
+  <li>💡 Ask me about <strong>Data Structures & Algorithms, AI/ML, Math, or Python.</strong></li>
 </ul>
 
 <h2>Connect with me</h2>
