@@ -1,11 +1,5 @@
 
 
-<div align="center">
-  <h3>
-    <strong>Backend Developer</strong> | 
-    Exploring <strong>AI/ML</strong> & <strong>Cloud Engineering</strong> 🚀  
-  </h3>
-</div>
 
 <h2>About Me</h2>
 <ul>
